@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net5.0\ObserverDemo.exe
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net5.0\ObserverDemo.deps.json
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net5.0\ObserverDemo.runtimeconfig.json
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net5.0\ObserverDemo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net5.0\ObserverDemo.dll
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net5.0\ref\ObserverDemo.dll
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\bin\Debug\net5.0\ObserverDemo.pdb
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ObserverDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ObserverDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ObserverDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ObserverDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ObserverDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ObserverDemo.dll
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ref\ObserverDemo.dll
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ObserverDemo.pdb
+C:\Users\Admin\source\repos\ObserverDemo\ObserverDemo\obj\Debug\net5.0\ObserverDemo.genruntimeconfig.cache
